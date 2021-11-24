@@ -1,14 +1,9 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN      SDA Submission guide
+      en      : &EN      Submit Data
       # @end locale config
     url: /sda-submission-guide.html
-  - titles:
-      # @start locale config
-      en      : &EN       Submission process
-      # @end locale config
-    url: /submission.html
 
   - titles:
       # @start locale config

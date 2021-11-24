@@ -4,7 +4,9 @@ title: SDA Submission Guide
 key: page-single
 ---
 
-This is a guide to submit data to SDA.
+This guide describes how to submit data to the Swedish Sensitive Data
+Archive (SDA). If you have questions or comments, please write to the
+<a href="mailto:">SDA Helpdesk</a>.
+
 {% include quick-guide-table.html %}
 
- 
