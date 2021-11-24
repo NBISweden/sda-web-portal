@@ -7,10 +7,10 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Request data process
+      en      : &EN       Access Data
       # @end locale config
-    url: /request-dataset.html
-
+    url: /data-access.html
+  
   - titles:
       # @start locale config
       en      : &EN       About

@@ -2,12 +2,13 @@
 layout: article
 titles:
     # @start locale config
-    en      : &EN       Request dataset
+    en      : &EN       Accessing Data in SDA
     # @end locale config
 key: page-single
 ---
 
-This page contains the information needed for requesting data from the SDA.
+This page contains the information needed in order to request access to data
+submitted to SDA.
 
 ## How to request a dataset
 - Apply for a dataset
