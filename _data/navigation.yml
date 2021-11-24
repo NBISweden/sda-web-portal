@@ -13,14 +13,13 @@ header:
   
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Privacy Notice
       # @end locale config
-    url: /about.html
+    url: /privacy-notice.html
+
   
   - titles:
       # @start locale config
-      en      : &EN       Legal
+      en      : &EN       Contact
       # @end locale config
-    url: /legal.html
-
-
+    url: /contact.html
