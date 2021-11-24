@@ -59,5 +59,5 @@ Review Act (SFS 2003:460).
 In preparation for submission you need to verify that a data processing
 agreement between the data controller and Uppsala University is in
 place. For convenience, we have already established [general data processing agreements](https://nbis.se/support/general-processing-agreements.html)
-with some Swedish universities. Contact the Data Protection Officer at your
-university to establish an agreement if one is missing.
+with some Swedish universities. If an agreement is missing, you may contact the
+Data Protection Officer at your university to establish one.
