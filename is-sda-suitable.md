@@ -10,7 +10,7 @@ key: page-single
 Before you start working on a submission to SDA, you should assess whether the
 repository is suitable or not. This guide will help you to make this assessment.
 
-## Are the data of the right type?
+## Is the data of the right type?
 
 The SDA aims to store the same kind of data as the Central EGA. You can read
 more about data types and file formats at the [Central EGA website](https://ega-archive.org).
