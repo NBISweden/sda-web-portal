@@ -35,7 +35,8 @@ The Swedish Sensitive Data Archive uses a software stack that has been
 developed by [National Bioinformatics Infrastructure Sweden (NBIS)](https://nbis.se)
 in collaboration with other Nordic ELIXIR nodes through the [Tryggve project](https://neic.no/tryggve2/)
 funded by the [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/)
-and coordinated with Central EGA through the European infrastructure [ELIXIR](https://elixir-europe.org/communities/human-data).
+and coordinated with Central EGA through the European research infrastructure 
+[ELIXIR](https://elixir-europe.org/communities/human-data).
 
 The entire stack is open source and can be audited.
 
