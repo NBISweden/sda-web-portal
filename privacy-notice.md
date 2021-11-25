@@ -7,11 +7,13 @@ titles:
 key: page-single
 ---
 
-## NBIS Privacy and Data Protection Policies
+## Privacy and Data Protection Policies
 
 The SDA is hosted by NBIS (National Bioinformatics Infrastructure Sweden) and
 consequently subject to this organisation's [Privacy Policy](https://nbis.se/about/privacy.html).
-NBIS belongs to Uppsala University which has a [Data Protection Policy](https://www.uu.se/en/about-uu/data-protection-policy/).
+Since NBIS belongs to Uppsala University, you can also find information about
+the processing of personal data in the university's 
+[Data Protection Policy](https://www.uu.se/en/about-uu/data-protection-policy/).
 
 
 ## General Data Processing Agreements
