@@ -7,9 +7,11 @@ titles:
 key: page-single
 ---
 
-This page contains the information needed in order to request access to data
-submitted to SDA.
+This page describes how you can get access to datasets that has been submitted
+to SDA. For any questions regarding data access, please contact the 
+<a href="mailto:ega-se@nbis.se">SDA Helpdesk</a>.
 
-## How to request a dataset
-- Apply for a dataset
-- Get link by email
+Each dataset stored in the SDA is affiliated with a Data Access Committee (DAC),
+which is the body responsible for all data access decisions.
+
+{% include data-access-table.html %}
