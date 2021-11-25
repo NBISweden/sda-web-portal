@@ -1,31 +1,25 @@
 header:
   - titles:
       # @start locale config
-      en      : &EN      SDA Submission guide
+      en      : &EN      Submit Data
       # @end locale config
     url: /sda-submission-guide.html
-  - titles:
-      # @start locale config
-      en      : &EN       Submission process
-      # @end locale config
-    url: /submission.html
 
   - titles:
       # @start locale config
-      en      : &EN       Request data process
+      en      : &EN       Access Data
       # @end locale config
-    url: /request-dataset.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       About
-      # @end locale config
-    url: /about.html
+    url: /data-access.html
   
   - titles:
       # @start locale config
-      en      : &EN       Legal
+      en      : &EN       Privacy Notice
       # @end locale config
-    url: /legal.html
+    url: /privacy-notice.html
 
-
+  
+  - titles:
+      # @start locale config
+      en      : &EN       Contact
+      # @end locale config
+    url: /contact.html

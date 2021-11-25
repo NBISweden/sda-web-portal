@@ -7,33 +7,35 @@ titles:
 key: page-single
 ---
 
-The Swedish sensitive data archive is a secure data archive and
-sharing platform for sensitive datasets. The archive is designed for
-large volumes of research data store and currently has the capacity to
-store 1 petabyte of encrypted data.
+The Swedish Sensitive Data Archive (SDA) is a service for permanent archiving
+and sharing personally identifiable genetic and phenotypic data resulting from
+biomedical research projects. As a national data repository, the SDA aims to
+enable researchers to share information that need to be stored within the
+Swedish jurisdiction. The repository is hosted by [National Bioinformatics
+Infrastructure Sweden (NBIS)](https://nbis.se).
 
-Data is strongly encrypted with
-[crypt4gh](https://www.ga4gh.org/news/crypt4gh-a-secure-method-for-sharing-human-genetic-data/)
-(a standard for encrypting genomic and other data types), and stored
-within Sweden in highly secure data centers while non-sensitive
-metadata can be made available to make datasets discoverable.
+Data in SDA is strongly encrypted according to the standard
+[Crypt4GH](https://www.ga4gh.org/news/crypt4gh-a-secure-method-for-sharing-human-genetic-data/),
+and stored within Sweden in highly secure data centers. Non-sensitive metadata
+is made publicly available to make datasets discoverable.
 
 ## Current status
 
-We are now piloting a standalone instance of the archive for storing
-and sharing.
+We are now piloting a standalone instance of the repository for storing and
+sharing.
 
-In the future, the archive will also be integrated with the [Federated
+In the future, the repository will also be integrated with the [Federated
 EGA](https://ega-archive.org/federated) network to make data even more
-discoverable and accessible at the same time as preserving the high
-data protection.
+discoverable and accessible at the same time as preserving the high data
+protection.
 
-## How is the archive being developed?
+## How is the SDA being developed?
 
 The Swedish Sensitive Data Archive uses a software stack that has been
-developed by NBIS in collaboration with other Nordic ELIXIR nodes
-through the [Tryggve](https://neic.no/tryggve2/) project funded by
-[NeIC](https://neic.no/) and coordinated with Central EGA through
+developed by [National Bioinformatics Infrastructure Sweden (NBIS)](https://nbis.se)
+in collaboration with other Nordic ELIXIR nodes through the [Tryggve project](https://neic.no/tryggve2/)
+funded by the [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/)
+and coordinated with Central EGA through the European research infrastructure 
 [ELIXIR](https://elixir-europe.org/communities/human-data).
 
 The entire stack is open source and can be audited.
