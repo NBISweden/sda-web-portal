@@ -7,5 +7,5 @@ titles:
 key: page-single
 ---
 
-If you have questions or comments, please write to the
-<a href="mailto:">SDA Helpdesk</a>.
+To contact us, please write to the 
+<a href="mailto:ega-se@nbis.se">SDA Helpdesk</a>.
