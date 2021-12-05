@@ -9,7 +9,7 @@ key: page-single
 
 Before you start working on a submission to SDA, you should assess whether the
 repository is suitable or not. This guide will help you to make this assessment.
-If you need help with the assessment, please contact the <a href="mailto:ega-se@nbis.se">SDA Helpdesk</a>
+If you need help with the assessment, please contact the <a href="mailto:ega-se@nbis.se">SDA Helpdesk</a>.
 
 ## Is my data of the right type?
 
@@ -27,7 +27,7 @@ repository, such as the [ENA](https://www.ebi.ac.uk/ena/browser/submit).
 
 Read more about [how access data in SDA](/data-access.html).
 
-## Do I have access to the required metadata?
+## Do I have all the required metadata?
 
 The metadata objects required for read submissions are as follows:
 
@@ -47,6 +47,10 @@ The metadata objects required for read submissions are as follows:
 
 Study, samples, DAC and Policy metadata can all be registered prior to uploading
 files.
+
+Collect your metadata as early as possible, preferably before you start working
+on a submission. Consider storing the metadata close to your data, as this might
+make the information easier to find when you need it.
 
 Read more about the metadata in the [Submitter Portal documentation](https://ega-archive.org/submission/tools/submitter-portal)
 at Central EGA. To get an initial understanding of the metadata requirements, we
