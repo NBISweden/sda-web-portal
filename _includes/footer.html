@@ -22,6 +22,28 @@
         {%- include author-links.html author=_site_author -%}
       </div>
     </div>
+    
+    <style type="text/css">
+      td
+      {
+          padding:0 75px 0 15px;
+      }
+      .custom_font{
+        font: 400 1rem/1.6 -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+        font-size: 1rem;
+        font-weight: 400;
+      }
+      
+      </style>
+      <table>
+          <tr>
+              <td ><a class = "custom_font" href="/submitter_docs.html">Submitter Information</a></td>
+              <td><a class = "custom_font"  href="/requester_docs.html">Requester Information</a></td>
+              <td><a class = "custom_font"  href="/download_data.html">Download_data script</a></td>
+          </tr>
+      </table>
+
+      
     {%- include snippets/get-locale-string.html key='COPYRIGHT_DATES' -%}
     {%- assign _locale_copyright_dates = __return -%}
     <div class="site-info mt-2">
