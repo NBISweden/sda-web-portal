@@ -4,7 +4,7 @@ titles:
     # @start locale config
     en      : &EN       Swedish Sensitive Data Archive
     # @end locale config
-key: page-single
+key: fega-sweden
 ---
 
 The Swedish Sensitive Data Archive (SDA) is a service for permanent archiving

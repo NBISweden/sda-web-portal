@@ -2,9 +2,11 @@
 layout: article
 titles:
     # @start locale config
-    en      : &EN       Accessing Data in SDA
+    en      : &EN       FEGA Sweden data access guide
     # @end locale config
-key: page-single
+key: fega-sweden-data-access-guide
+sidebar:
+    nav: access
 ---
 
 This page describes how you request access to datasets deposited in SDA. For

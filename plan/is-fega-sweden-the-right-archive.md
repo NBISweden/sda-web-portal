@@ -2,9 +2,11 @@
 layout: article
 titles:
     # @start locale config
-    en      : &EN       Is SDA suitable for my data?
+    en      : &EN       Is FEGA Sweden the right archive for my data?
     # @end locale config
-key: page-single
+key: is-fega-sweden-the-right-archive
+sidebar:
+  nav: plan
 ---
 
 Before you start working on a submission to SDA, you should assess whether the

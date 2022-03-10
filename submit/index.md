@@ -1,7 +1,9 @@
 ---
 layout: article
-title: SDA Submission Guide
-key: page-single
+title: FEGA Sweden submission guide
+key: fega-sweden-submission-guide
+sidebar:
+  nav: submit
 ---
 
 This guide describes how to submit data to the Swedish Sensitive Data

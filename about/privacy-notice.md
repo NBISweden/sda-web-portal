@@ -2,9 +2,11 @@
 layout: article
 titles:
   # @start locale config
-  en      : &EN       Privacy Notice
+  en      : &EN       Privacy notice
   # @end locale config
-key: page-single
+key: privacy-notice
+sidebar:
+  nav: about
 ---
 
 ## Privacy and Data Protection Policies

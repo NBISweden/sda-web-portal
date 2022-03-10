@@ -1,25 +1,75 @@
 header:
-  - titles:
-      # @start locale config
-      en      : &EN      Submit Data
-      # @end locale config
-    url: /sda-submission-guide.html
 
   - titles:
       # @start locale config
-      en      : &EN       Access Data
+      en      : &EN     Plan
       # @end locale config
-    url: /data-access.html
-  
-  - titles:
-      # @start locale config
-      en      : &EN       Privacy Notice
-      # @end locale config
-    url: /privacy-notice.html
+    url: plan/index.html
 
+  - titles:
+      # @start locale config
+      en      : &EN      Submit
+      # @end locale config
+    url: submit/index.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Access
+      # @end locale config
+    url: access/index.html
   
   - titles:
       # @start locale config
-      en      : &EN       Contact
+      en      : &EN       About
       # @end locale config
-    url: /contact.html
+    url: about/index.html
+
+
+plan:
+    - children:
+      - title:  Plan to share your data
+        url:    plan/index
+      - title:  Is FEGA Sweden the right archive?
+        url:    plan/is-fega-sweden-the-right-archive
+      - title:  Ethical approval and consent
+        url:    plan/ethical-approval-and-consent
+      - title:  GDPR
+        url:    plan/gdpr
+
+submit:
+    - children:
+      - title:  Submission guide
+        url:    submit/index
+      - title:  Preparing data
+        url:    submit/preparing-data
+      - title:  Uploading data
+        url:    submit/encrypting-and-uploading-data
+      - title:  Preparing metadata
+        url:    submit/preparing-metadata
+      - title:  The DAC
+        url:    submit/the-data-access-committee
+      - title:  Data use conditions
+        url:    submit/data-use-conditions
+
+access:
+    - children:
+      - title:  Data access guide
+        url:    access/index
+      - title:  Downloading data
+        url:    access/downloading-and-decrypting-data
+
+about:
+    - children:
+      - title:  What is FEGA Sweden?
+        url:    about/index
+      - title:  Our mission
+        url:    about/our-mission
+      - title:  People
+        url:    about/people-behind-fega-sweden
+      - title:  Contact us
+        url:    about/contact-us
+      - title:  Terms of service
+        url:    about/terms-of-service
+      - title:  Privacy notice
+        url:    about/privacy-notice
+
