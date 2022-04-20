@@ -17,7 +17,7 @@ have any questions, please write to the [Helpdesk](mailto:ega-se@nbis.se).
 * Determine [if FEGA Sweden is the right archive](is-fega-sweden-the-right-archive)
   for your data.
 * Find out what is needed in order to [comply with GDPR](complying-with-gdpr).
-* Make sure that the [ethical approval](ethical-approval-and-consent) allows
+* Make sure that the [ethical approval](ethical-approval) allows
   the data to be shared via FEGA Sweden.
 * Consider if the data should be divided into multiple datasets.
   [Access to data in FEGA Sweden](/access) is given at the dataset level, which

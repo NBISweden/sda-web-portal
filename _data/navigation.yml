@@ -33,8 +33,8 @@ prepare:
         url:    prepare/is-fega-sweden-the-right-archive
       - title:  Complying with GDPR
         url:    prepare/complying-with-gdpr
-      - title:  Ethical approval and consent
-        url:    prepare/ethical-approval-and-consent
+      - title:  Ethical approval
+        url:    prepare/ethical-approval
       - title:  Preparing data
         url:    prepare/preparing-data
       - title:  Preparing metadata

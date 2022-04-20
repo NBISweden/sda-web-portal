@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Ethical approval and consent
-key: ethical-approval-and-consent
+title: Ethical approval
+key: ethical-approval
 sidebar:
   nav: prepare
 ---
@@ -18,17 +18,16 @@ Swedish.
 
 ## Informed consent
 
-Research projects that have been approved by the Swedish Ethical Review
-Authority are normally required to collect consent agreements from the research
-participants. This means that every participant must be informed about the
-purpose of the research as well as about any risks and benefits involved in his
-or her participation. The information that is given to the participants is part
-of the ethical review process.
+Research projects may be required to collect consent agreements from the
+research participants. This means that every participant must be informed about
+the purpose of the research, as well as about any risks and benefits involved in
+his or her participation. The information that you plan to give the participants
+before you collect their consents is part of the ethical review process.
+[The Ethical Review Act](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/lag-2003460-om-etikprovning-av-forskning-som_sfs-2003-460) specifies the cases
+when consent agreements are required.
 
-If you intend to make sensitive personal data accessible for secondary research
-use, you have to make that clear to the participants before they consent to
-their participation. Here are a few things you can think of when you prepare the
-information for the participants:
+Here are a few things you can think of when you prepare the information for the
+participants:
 
 * Express clearly that the participant's personal data may be used in other
   research projects. Try to restrict data reuse by specifying the purpose for
