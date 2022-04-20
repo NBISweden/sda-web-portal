@@ -1,19 +1,25 @@
 ---
 layout: article
-title: Downloading and decrypting data
-key: downloading-and-decrypting-data
+title: Download data
+key: download-data
 sidebar:
   nav: access
 ---
 
-## Download Instructions
 
-This sections provides guidelines and intructions on how to download the data files. It contains three steps - Generate Public and Secret Key, Decrypt the data files and Validate the decrypt data files. 
+This sections provides intructions on how to download the data files. The instructions
+contain the following steps: 
 
-### Preparing the system
+* Prepare your system
+* Generate public and secret key
+* Decrypt the files
+* Validate the decrypted files
 
-Downloading data files requires [crypt4gh](https://www.ga4gh.org/news/crypt4gh-a-secure-method-for-sharing-human-genetic-data/)
-for decrypting the data files. 
+
+### Prepare your system
+
+In order to download and decrypt files, you need to first get the tool
+[crypt4gh](https://www.ga4gh.org/news/crypt4gh-a-secure-method-for-sharing-human-genetic-data/). 
 
 
 ### Generate Public and Secret Key
@@ -26,7 +32,7 @@ crypt4gh-keygen --sk user.sec --pk user.pub
 
 ### Decrypt the data files
 
-You recieve an email from the FEGA-SE helpdesk that contains a URL. This URL contains links to download the encrypted data files. Get our [script for downloading data](downloading-data-script.html) and then use the following command.
+You recieve an email from the FEGA-SE helpdesk that contains a URL. This URL contains links to download the encrypted data files. Get our [script for downloading data](download-data-script.html) and then use the following command.
 
 
 ```bash
