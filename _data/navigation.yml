@@ -2,9 +2,9 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN     Plan
+      en      : &EN     Prepare
       # @end locale config
-    url: plan/index.html
+    url: prepare/index.html
 
   - titles:
       # @start locale config
@@ -25,29 +25,31 @@ header:
     url: about/index.html
 
 
-plan:
+prepare:
     - children:
-      - title:  Plan to share your data
-        url:    plan/index
+      - title:  Prepare for sharing data
+        url:    prepare/index
       - title:  Is FEGA Sweden the right archive?
-        url:    plan/is-fega-sweden-the-right-archive
+        url:    prepare/is-fega-sweden-the-right-archive
+      - title:  Complying with GDPR
+        url:    prepare/complying-with-gdpr
       - title:  Ethical approval and consent
-        url:    plan/ethical-approval-and-consent
-      - title:  GDPR
-        url:    plan/gdpr
+        url:    prepare/ethical-approval-and-consent
+      - title:  Preparing data
+        url:    prepare/preparing-data
+      - title:  Preparing metadata
+        url:    prepare/preparing-metadata
+      - title:  Appointing a DAC
+        url:    prepare/appointing-a-dac
 
 submit:
     - children:
-      - title:  Submission guide
+      - title:  Submission overview
         url:    submit/index
-      - title:  Preparing data
-        url:    submit/preparing-data
       - title:  Uploading data
-        url:    submit/encrypting-and-uploading-data
-      - title:  Preparing metadata
-        url:    submit/preparing-metadata
-      - title:  The DAC
-        url:    submit/the-data-access-committee
+        url:    submit/uploading-data
+      - title:  Entering metadata
+        url:    submit/entering-metadata
       - title:  Data use conditions
         url:    submit/data-use-conditions
 
@@ -55,8 +57,8 @@ access:
     - children:
       - title:  Data access guide
         url:    access/index
-      - title:  Downloading data
-        url:    access/downloading-and-decrypting-data
+      - title:  Download data
+        url:    access/download-data
 
 about:
     - children:
