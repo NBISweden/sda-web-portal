@@ -1,31 +1,26 @@
 ---
 layout: article
-key: page-single
+title: Installing the s3cmd tool
+key: installing-s3cmd
+sidebar:
+  nav: submit
+---
 ---
 
-# Setting up with binaries
-
-The crypt4gh and s3cmd tools are available as binaries, so you can download the tar
-files, extract them and use the tools. Depending on your operating system, select
-the appropriate version and download it from the command line with `wget`.
-
-## Download the tools
-The list of releases for `s3cmd` for Linux based systems can be found [here](https://github.com/s3tools/s3cmd/releases/tag/v2.2.0), for Windows systems [here](https://www.s3express.com/download.htm),
-while for the `crypt4gh` [here](https://github.com/elixir-oslo/crypt4gh/releases/tag/v1.3.0).
-
-For example, if your operating system is Linux based, download the files using:
-```bash
-wget https://github.com/s3tools/s3cmd/releases/download/v2.2.0/s3cmd-2.2.0.tar.gz
-wget https://github.com/elixir-oslo/crypt4gh/releases/download/v1.3.0/crypt4gh_linux_x86_64.tar.gz
-```
+# Installing the s3cmd tool
 
 ## Check the python version
-The `s3cmd` tool requires python version higher than 3. Check that this is the case in your system using
+
+The `s3cmd` tool requires Python version 3 or higher to be installed on your
+system. Check that you have the right Python version by typing the following
+on the command-line:
+
 ```bash
 python --version
 ```
-If the version is `2.X.X`, follow the instructions in the next section to [create a virtual environment](binaries.html#create-a-virtual-environment)
-with python 3. Otherwise, move to section [Extract the executables](binaries.html#extract-the-executables).
+If the version is `2.X.X`, follow the instructions in the next section to
+[create a virtual environment](binaries.html#create-a-virtual-environment)
+with Python 3. Otherwise, move to section [Extract the executables](binaries.html#extract-the-executables).
 
 ### Create a virtual environment
 ​
